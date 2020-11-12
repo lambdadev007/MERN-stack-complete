@@ -1,0 +1,7982 @@
+[
+	{
+		"name": "Abbeville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Adamsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Addison",
+		"state_code": "AL"
+	},
+	{
+		"name": "Akron",
+		"state_code": "AL"
+	},
+	{
+		"name": "Alabaster",
+		"state_code": "AL"
+	},
+	{
+		"name": "Albertville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Alexander City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Aliceville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Allgood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Altoona",
+		"state_code": "AL"
+	},
+	{
+		"name": "Andalusia",
+		"state_code": "AL"
+	},
+	{
+		"name": "Anderson",
+		"state_code": "AL"
+	},
+	{
+		"name": "Anniston",
+		"state_code": "AL"
+	},
+	{
+		"name": "Arab",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ardmore",
+		"state_code": "AL"
+	},
+	{
+		"name": "Argo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ariton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Arley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ashford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ashland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ashville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Athens",
+		"state_code": "AL"
+	},
+	{
+		"name": "Atmore",
+		"state_code": "AL"
+	},
+	{
+		"name": "Attalla",
+		"state_code": "AL"
+	},
+	{
+		"name": "Auburn",
+		"state_code": "AL"
+	},
+	{
+		"name": "Autaugaville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Avon",
+		"state_code": "AL"
+	},
+	{
+		"name": "Babbie",
+		"state_code": "AL"
+	},
+	{
+		"name": "Baileyton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bakerhill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Banks",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bay Minette",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bayou La Batre",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bear Creek",
+		"state_code": "AL"
+	},
+	{
+		"name": "Beatrice",
+		"state_code": "AL"
+	},
+	{
+		"name": "Beaverton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Belk",
+		"state_code": "AL"
+	},
+	{
+		"name": "Benton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Berry",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bessemer",
+		"state_code": "AL"
+	},
+	{
+		"name": "Billingsley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Birmingham",
+		"state_code": "AL"
+	},
+	{
+		"name": "Black",
+		"state_code": "AL"
+	},
+	{
+		"name": "Blountsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Blue Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Boaz",
+		"state_code": "AL"
+	},
+	{
+		"name": "Boligee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bon Air",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brantley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brent",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brewton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Bridgeport",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brighton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brilliant",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brookside",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brookwood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Brundidge",
+		"state_code": "AL"
+	},
+	{
+		"name": "Butler",
+		"state_code": "AL"
+	},
+	{
+		"name": "Calera",
+		"state_code": "AL"
+	},
+	{
+		"name": "Camden",
+		"state_code": "AL"
+	},
+	{
+		"name": "Camp Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Carbon Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cardiff",
+		"state_code": "AL"
+	},
+	{
+		"name": "Carolina",
+		"state_code": "AL"
+	},
+	{
+		"name": "Carrollton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Castleberry",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cedar Bluff",
+		"state_code": "AL"
+	},
+	{
+		"name": "Center Point",
+		"state_code": "AL"
+	},
+	{
+		"name": "Centre",
+		"state_code": "AL"
+	},
+	{
+		"name": "Centreville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Chatom",
+		"state_code": "AL"
+	},
+	{
+		"name": "Chelsea",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cherokee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Chickasaw",
+		"state_code": "AL"
+	},
+	{
+		"name": "Childersburg",
+		"state_code": "AL"
+	},
+	{
+		"name": "Citronelle",
+		"state_code": "AL"
+	},
+	{
+		"name": "Clanton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Clay",
+		"state_code": "AL"
+	},
+	{
+		"name": "Clayhatchee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Clayton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cleveland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Clio",
+		"state_code": "AL"
+	},
+	{
+		"name": "Coaling",
+		"state_code": "AL"
+	},
+	{
+		"name": "Coffee Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Coffeeville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Coker",
+		"state_code": "AL"
+	},
+	{
+		"name": "Collinsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Colony",
+		"state_code": "AL"
+	},
+	{
+		"name": "Columbia",
+		"state_code": "AL"
+	},
+	{
+		"name": "Columbiana",
+		"state_code": "AL"
+	},
+	{
+		"name": "Coosada",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cordova",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cottonwood",
+		"state_code": "AL"
+	},
+	{
+		"name": "County Line",
+		"state_code": "AL"
+	},
+	{
+		"name": "Courtland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cowarts",
+		"state_code": "AL"
+	},
+	{
+		"name": "Creola",
+		"state_code": "AL"
+	},
+	{
+		"name": "Crossville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cuba",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cullman",
+		"state_code": "AL"
+	},
+	{
+		"name": "Cusseta",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dadeville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Daleville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Daphne",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dauphin Island",
+		"state_code": "AL"
+	},
+	{
+		"name": "Daviston",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dayton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Deatsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Decatur",
+		"state_code": "AL"
+	},
+	{
+		"name": "Demopolis",
+		"state_code": "AL"
+	},
+	{
+		"name": "Detroit",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dodge City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dora",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dothan",
+		"state_code": "AL"
+	},
+	{
+		"name": "Double Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Douglas",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dozier",
+		"state_code": "AL"
+	},
+	{
+		"name": "Dutton",
+		"state_code": "AL"
+	},
+	{
+		"name": "East Brewton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Eclectic",
+		"state_code": "AL"
+	},
+	{
+		"name": "Edwardsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Elba",
+		"state_code": "AL"
+	},
+	{
+		"name": "Elberta",
+		"state_code": "AL"
+	},
+	{
+		"name": "Eldridge",
+		"state_code": "AL"
+	},
+	{
+		"name": "Elkmont",
+		"state_code": "AL"
+	},
+	{
+		"name": "Elmore",
+		"state_code": "AL"
+	},
+	{
+		"name": "Emelle",
+		"state_code": "AL"
+	},
+	{
+		"name": "Enterprise",
+		"state_code": "AL"
+	},
+	{
+		"name": "Epes",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ethelsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Eufaula",
+		"state_code": "AL"
+	},
+	{
+		"name": "Eutaw",
+		"state_code": "AL"
+	},
+	{
+		"name": "Eva",
+		"state_code": "AL"
+	},
+	{
+		"name": "Evergreen",
+		"state_code": "AL"
+	},
+	{
+		"name": "Excel",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fairfield",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fairhope",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fairview",
+		"state_code": "AL"
+	},
+	{
+		"name": "Falkville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Faunsdale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fayette",
+		"state_code": "AL"
+	},
+	{
+		"name": "Five Points",
+		"state_code": "AL"
+	},
+	{
+		"name": "Flomaton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Florala",
+		"state_code": "AL"
+	},
+	{
+		"name": "Florence",
+		"state_code": "AL"
+	},
+	{
+		"name": "Foley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Forkland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fort Deposit",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fort Payne",
+		"state_code": "AL"
+	},
+	{
+		"name": "Franklin",
+		"state_code": "AL"
+	},
+	{
+		"name": "Frisco City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fruithurst",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fulton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fultondale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Fyffe",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gadsden",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gainesville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gantt",
+		"state_code": "AL"
+	},
+	{
+		"name": "Garden City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gardendale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gaylesville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Geiger",
+		"state_code": "AL"
+	},
+	{
+		"name": "Geneva",
+		"state_code": "AL"
+	},
+	{
+		"name": "Georgiana",
+		"state_code": "AL"
+	},
+	{
+		"name": "Geraldine",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gilbertown",
+		"state_code": "AL"
+	},
+	{
+		"name": "Glen Allen",
+		"state_code": "AL"
+	},
+	{
+		"name": "Glencoe",
+		"state_code": "AL"
+	},
+	{
+		"name": "Glenwood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Goldville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Good Hope",
+		"state_code": "AL"
+	},
+	{
+		"name": "Goodwater",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gordo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gordon",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gordonville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Goshen",
+		"state_code": "AL"
+	},
+	{
+		"name": "Grant",
+		"state_code": "AL"
+	},
+	{
+		"name": "Graysville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Greensboro",
+		"state_code": "AL"
+	},
+	{
+		"name": "Greenville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Grimes",
+		"state_code": "AL"
+	},
+	{
+		"name": "Grove Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Guin",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gulf Shores",
+		"state_code": "AL"
+	},
+	{
+		"name": "Guntersville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gurley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Gu-Win",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hackleburg",
+		"state_code": "AL"
+	},
+	{
+		"name": "Haleburg",
+		"state_code": "AL"
+	},
+	{
+		"name": "Haleyville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hamilton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hammondville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hanceville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Harpersville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hartford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hartselle",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hayden",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hayneville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Headland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Heath",
+		"state_code": "AL"
+	},
+	{
+		"name": "Heflin",
+		"state_code": "AL"
+	},
+	{
+		"name": "Helena",
+		"state_code": "AL"
+	},
+	{
+		"name": "Henagar",
+		"state_code": "AL"
+	},
+	{
+		"name": "Highland Lake",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hillsboro",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hobson City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hodges",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hokes Bluff",
+		"state_code": "AL"
+	},
+	{
+		"name": "Holly Pond",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hollywood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Homewood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hoover",
+		"state_code": "AL"
+	},
+	{
+		"name": "Horn Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hueytown",
+		"state_code": "AL"
+	},
+	{
+		"name": "Huntsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hurtsboro",
+		"state_code": "AL"
+	},
+	{
+		"name": "Hytop",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ider",
+		"state_code": "AL"
+	},
+	{
+		"name": "Indian Springs Village",
+		"state_code": "AL"
+	},
+	{
+		"name": "Irondale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Jackson",
+		"state_code": "AL"
+	},
+	{
+		"name": "Jacksons Gap",
+		"state_code": "AL"
+	},
+	{
+		"name": "Jacksonville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Jasper",
+		"state_code": "AL"
+	},
+	{
+		"name": "Jemison",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kansas",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kellyton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kennedy",
+		"state_code": "AL"
+	},
+	{
+		"name": "Killen",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kimberly",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kinsey",
+		"state_code": "AL"
+	},
+	{
+		"name": "Kinston",
+		"state_code": "AL"
+	},
+	{
+		"name": "LaFayette",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lake View",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lakeview",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lanett",
+		"state_code": "AL"
+	},
+	{
+		"name": "Langston",
+		"state_code": "AL"
+	},
+	{
+		"name": "Leeds",
+		"state_code": "AL"
+	},
+	{
+		"name": "Leesburg",
+		"state_code": "AL"
+	},
+	{
+		"name": "Leighton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lester",
+		"state_code": "AL"
+	},
+	{
+		"name": "Level Plains",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lexington",
+		"state_code": "AL"
+	},
+	{
+		"name": "Libertyville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lincoln",
+		"state_code": "AL"
+	},
+	{
+		"name": "Linden",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lineville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lipscomb",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lisman",
+		"state_code": "AL"
+	},
+	{
+		"name": "Littleville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Livingston",
+		"state_code": "AL"
+	},
+	{
+		"name": "Loachapoka",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lockhart",
+		"state_code": "AL"
+	},
+	{
+		"name": "Locust Fork",
+		"state_code": "AL"
+	},
+	{
+		"name": "Louisville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lowndesboro",
+		"state_code": "AL"
+	},
+	{
+		"name": "Loxley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Luverne",
+		"state_code": "AL"
+	},
+	{
+		"name": "Lynn",
+		"state_code": "AL"
+	},
+	{
+		"name": "Madison",
+		"state_code": "AL"
+	},
+	{
+		"name": "Madrid",
+		"state_code": "AL"
+	},
+	{
+		"name": "Magnolia Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Malvern",
+		"state_code": "AL"
+	},
+	{
+		"name": "Maplesville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Margaret",
+		"state_code": "AL"
+	},
+	{
+		"name": "Marion",
+		"state_code": "AL"
+	},
+	{
+		"name": "Maytown",
+		"state_code": "AL"
+	},
+	{
+		"name": "McIntosh",
+		"state_code": "AL"
+	},
+	{
+		"name": "McKenzie",
+		"state_code": "AL"
+	},
+	{
+		"name": "McMullen",
+		"state_code": "AL"
+	},
+	{
+		"name": "Memphis",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mentone",
+		"state_code": "AL"
+	},
+	{
+		"name": "Midfield",
+		"state_code": "AL"
+	},
+	{
+		"name": "Midland City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Midway",
+		"state_code": "AL"
+	},
+	{
+		"name": "Millbrook",
+		"state_code": "AL"
+	},
+	{
+		"name": "Millport",
+		"state_code": "AL"
+	},
+	{
+		"name": "Millry",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mobile",
+		"state_code": "AL"
+	},
+	{
+		"name": "Monroeville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Montevallo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Montgomery",
+		"state_code": "AL"
+	},
+	{
+		"name": "Moody",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mooresville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Morris",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mosses",
+		"state_code": "AL"
+	},
+	{
+		"name": "Moulton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Moundville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mount Vernon",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mountain Brook",
+		"state_code": "AL"
+	},
+	{
+		"name": "Mulga",
+		"state_code": "AL"
+	},
+	{
+		"name": "Munford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Muscle Shoals",
+		"state_code": "AL"
+	},
+	{
+		"name": "Myrtlewood",
+		"state_code": "AL"
+	},
+	{
+		"name": "Napier Field",
+		"state_code": "AL"
+	},
+	{
+		"name": "Natural Bridge",
+		"state_code": "AL"
+	},
+	{
+		"name": "Nauvoo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Nectar",
+		"state_code": "AL"
+	},
+	{
+		"name": "Needham",
+		"state_code": "AL"
+	},
+	{
+		"name": "New Brockton",
+		"state_code": "AL"
+	},
+	{
+		"name": "New Hope",
+		"state_code": "AL"
+	},
+	{
+		"name": "New Site",
+		"state_code": "AL"
+	},
+	{
+		"name": "Newbern",
+		"state_code": "AL"
+	},
+	{
+		"name": "Newton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Newville",
+		"state_code": "AL"
+	},
+	{
+		"name": "North Courtland",
+		"state_code": "AL"
+	},
+	{
+		"name": "North Johns",
+		"state_code": "AL"
+	},
+	{
+		"name": "Northport",
+		"state_code": "AL"
+	},
+	{
+		"name": "Notasulga",
+		"state_code": "AL"
+	},
+	{
+		"name": "Oak Grove",
+		"state_code": "AL"
+	},
+	{
+		"name": "Oak Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Oakman",
+		"state_code": "AL"
+	},
+	{
+		"name": "Odenville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ohatchee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Oneonta",
+		"state_code": "AL"
+	},
+	{
+		"name": "Onycha",
+		"state_code": "AL"
+	},
+	{
+		"name": "Opelika",
+		"state_code": "AL"
+	},
+	{
+		"name": "Opp",
+		"state_code": "AL"
+	},
+	{
+		"name": "Orange Beach",
+		"state_code": "AL"
+	},
+	{
+		"name": "Orrville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Owens Cross Roads",
+		"state_code": "AL"
+	},
+	{
+		"name": "Oxford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ozark",
+		"state_code": "AL"
+	},
+	{
+		"name": "Paint Rock",
+		"state_code": "AL"
+	},
+	{
+		"name": "Parrish",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pelham",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pell City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pennington",
+		"state_code": "AL"
+	},
+	{
+		"name": "Perdido Beach",
+		"state_code": "AL"
+	},
+	{
+		"name": "Petrey",
+		"state_code": "AL"
+	},
+	{
+		"name": "Phenix City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Phil Campbell",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pickensville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Piedmont",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pike Road",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pinckard",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pine Apple",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pine Hill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pine Ridge",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pinson",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pisgah",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pleasant Grove",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pleasant Groves",
+		"state_code": "AL"
+	},
+	{
+		"name": "Pollard",
+		"state_code": "AL"
+	},
+	{
+		"name": "Powell",
+		"state_code": "AL"
+	},
+	{
+		"name": "Prattville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Priceville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Prichard",
+		"state_code": "AL"
+	},
+	{
+		"name": "Providence",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ragland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rainbow City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rainsville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ranburne",
+		"state_code": "AL"
+	},
+	{
+		"name": "Red Bay",
+		"state_code": "AL"
+	},
+	{
+		"name": "Red Level",
+		"state_code": "AL"
+	},
+	{
+		"name": "Reece City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Reform",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rehobeth",
+		"state_code": "AL"
+	},
+	{
+		"name": "Repton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Ridgeville",
+		"state_code": "AL"
+	},
+	{
+		"name": "River Falls",
+		"state_code": "AL"
+	},
+	{
+		"name": "Riverside",
+		"state_code": "AL"
+	},
+	{
+		"name": "Riverview",
+		"state_code": "AL"
+	},
+	{
+		"name": "Roanoke",
+		"state_code": "AL"
+	},
+	{
+		"name": "Robertsdale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rockford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rogersville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rosa",
+		"state_code": "AL"
+	},
+	{
+		"name": "Russellville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Rutledge",
+		"state_code": "AL"
+	},
+	{
+		"name": "St Florian",
+		"state_code": "AL"
+	},
+	{
+		"name": "Samson",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sand Rock",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sanford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Saraland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sardis City",
+		"state_code": "AL"
+	},
+	{
+		"name": "Satsuma",
+		"state_code": "AL"
+	},
+	{
+		"name": "Scottsboro",
+		"state_code": "AL"
+	},
+	{
+		"name": "Section",
+		"state_code": "AL"
+	},
+	{
+		"name": "Selma",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sheffield",
+		"state_code": "AL"
+	},
+	{
+		"name": "Shiloh",
+		"state_code": "AL"
+	},
+	{
+		"name": "Shorter",
+		"state_code": "AL"
+	},
+	{
+		"name": "Silas",
+		"state_code": "AL"
+	},
+	{
+		"name": "Silverhill",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sipsey",
+		"state_code": "AL"
+	},
+	{
+		"name": "Skyline",
+		"state_code": "AL"
+	},
+	{
+		"name": "Slocomb",
+		"state_code": "AL"
+	},
+	{
+		"name": "Smiths Station",
+		"state_code": "AL"
+	},
+	{
+		"name": "Snead",
+		"state_code": "AL"
+	},
+	{
+		"name": "Somerville",
+		"state_code": "AL"
+	},
+	{
+		"name": "South Vinemont",
+		"state_code": "AL"
+	},
+	{
+		"name": "Southside",
+		"state_code": "AL"
+	},
+	{
+		"name": "Spanish Fort",
+		"state_code": "AL"
+	},
+	{
+		"name": "Springville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Steele",
+		"state_code": "AL"
+	},
+	{
+		"name": "Stevenson",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sulligent",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sumiton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Summerdale",
+		"state_code": "AL"
+	},
+	{
+		"name": "Susan Moore",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sweet Water",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sylacauga",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sylvan Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Sylvania",
+		"state_code": "AL"
+	},
+	{
+		"name": "Talladega Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Talladega",
+		"state_code": "AL"
+	},
+	{
+		"name": "Tallassee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Tarrant",
+		"state_code": "AL"
+	},
+	{
+		"name": "Taylor",
+		"state_code": "AL"
+	},
+	{
+		"name": "Thomaston",
+		"state_code": "AL"
+	},
+	{
+		"name": "Thomasville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Thorsby",
+		"state_code": "AL"
+	},
+	{
+		"name": "Town Creek",
+		"state_code": "AL"
+	},
+	{
+		"name": "Toxey",
+		"state_code": "AL"
+	},
+	{
+		"name": "Trafford",
+		"state_code": "AL"
+	},
+	{
+		"name": "Triana",
+		"state_code": "AL"
+	},
+	{
+		"name": "Trinity",
+		"state_code": "AL"
+	},
+	{
+		"name": "Troy",
+		"state_code": "AL"
+	},
+	{
+		"name": "Trussville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Tuscaloosa",
+		"state_code": "AL"
+	},
+	{
+		"name": "Tuscumbia",
+		"state_code": "AL"
+	},
+	{
+		"name": "Tuskegee",
+		"state_code": "AL"
+	},
+	{
+		"name": "Twin",
+		"state_code": "AL"
+	},
+	{
+		"name": "Union Grove",
+		"state_code": "AL"
+	},
+	{
+		"name": "Union Springs",
+		"state_code": "AL"
+	},
+	{
+		"name": "Union",
+		"state_code": "AL"
+	},
+	{
+		"name": "Uniontown",
+		"state_code": "AL"
+	},
+	{
+		"name": "Valley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Valley Grande",
+		"state_code": "AL"
+	},
+	{
+		"name": "Valley Head",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vance",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vernon",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vestavia Hills",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vina",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vincent",
+		"state_code": "AL"
+	},
+	{
+		"name": "Vredenburgh",
+		"state_code": "AL"
+	},
+	{
+		"name": "Wadley",
+		"state_code": "AL"
+	},
+	{
+		"name": "Waldo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Walnut Grove",
+		"state_code": "AL"
+	},
+	{
+		"name": "Warrior",
+		"state_code": "AL"
+	},
+	{
+		"name": "Waterloo",
+		"state_code": "AL"
+	},
+	{
+		"name": "Waverly",
+		"state_code": "AL"
+	},
+	{
+		"name": "Weaver",
+		"state_code": "AL"
+	},
+	{
+		"name": "Webb",
+		"state_code": "AL"
+	},
+	{
+		"name": "Wedowee",
+		"state_code": "AL"
+	},
+	{
+		"name": "West Blocton",
+		"state_code": "AL"
+	},
+	{
+		"name": "West Jefferson",
+		"state_code": "AL"
+	},
+	{
+		"name": "West Point",
+		"state_code": "AL"
+	},
+	{
+		"name": "Westover",
+		"state_code": "AL"
+	},
+	{
+		"name": "Wetumpka",
+		"state_code": "AL"
+	},
+	{
+		"name": "White Hall",
+		"state_code": "AL"
+	},
+	{
+		"name": "Wilsonville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Wilton",
+		"state_code": "AL"
+	},
+	{
+		"name": "Winfield",
+		"state_code": "AL"
+	},
+	{
+		"name": "Woodland",
+		"state_code": "AL"
+	},
+	{
+		"name": "Woodstock",
+		"state_code": "AL"
+	},
+	{
+		"name": "Woodville",
+		"state_code": "AL"
+	},
+	{
+		"name": "Yellow Bluff",
+		"state_code": "AL"
+	},
+	{
+		"name": "York",
+		"state_code": "AL"
+	},
+	{
+		"name": "Adak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Akhiok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Akiachak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Akiak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Akutan",
+		"state_code": "AK"
+	},
+	{
+		"name": "Alakanuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Alatna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Alcan Border",
+		"state_code": "AK"
+	},
+	{
+		"name": "Aleknagik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Aleneva",
+		"state_code": "AK"
+	},
+	{
+		"name": "Allakaket",
+		"state_code": "AK"
+	},
+	{
+		"name": "Alpine",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ambler",
+		"state_code": "AK"
+	},
+	{
+		"name": "Anaktuvuk Pass",
+		"state_code": "AK"
+	},
+	{
+		"name": "Anchorage municipality",
+		"state_code": "AK"
+	},
+	{
+		"name": "Anchor Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Anderson",
+		"state_code": "AK"
+	},
+	{
+		"name": "Angoon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Aniak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Anvik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Arctic Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Atka",
+		"state_code": "AK"
+	},
+	{
+		"name": "Atmautluak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Atqasuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Attu Station",
+		"state_code": "AK"
+	},
+	{
+		"name": "Barrow",
+		"state_code": "AK"
+	},
+	{
+		"name": "Bear Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Beaver",
+		"state_code": "AK"
+	},
+	{
+		"name": "Beluga",
+		"state_code": "AK"
+	},
+	{
+		"name": "Bethel",
+		"state_code": "AK"
+	},
+	{
+		"name": "Bettles",
+		"state_code": "AK"
+	},
+	{
+		"name": "Big Delta",
+		"state_code": "AK"
+	},
+	{
+		"name": "Big Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Birch Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Brevig Mission",
+		"state_code": "AK"
+	},
+	{
+		"name": "Buckland",
+		"state_code": "AK"
+	},
+	{
+		"name": "Buffalo Soapstone",
+		"state_code": "AK"
+	},
+	{
+		"name": "Butte",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cantwell",
+		"state_code": "AK"
+	},
+	{
+		"name": "Central",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chalkyitsik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chase",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chefornak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chenega",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chevak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chickaloon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chicken",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chignik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chignik Lagoon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chignik Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chiniak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chisana",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chistochina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chitina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Chuathbaluk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Circle",
+		"state_code": "AK"
+	},
+	{
+		"name": "Clam Gulch",
+		"state_code": "AK"
+	},
+	{
+		"name": "Clarks Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Coffman Cove",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cohoe",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cold Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Coldfoot",
+		"state_code": "AK"
+	},
+	{
+		"name": "College",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cooper Landing",
+		"state_code": "AK"
+	},
+	{
+		"name": "Copper Center",
+		"state_code": "AK"
+	},
+	{
+		"name": "Copperville",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cordova",
+		"state_code": "AK"
+	},
+	{
+		"name": "Covenant Life",
+		"state_code": "AK"
+	},
+	{
+		"name": "Craig",
+		"state_code": "AK"
+	},
+	{
+		"name": "Crooked Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Crown Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Cube Cove",
+		"state_code": "AK"
+	},
+	{
+		"name": "Deering",
+		"state_code": "AK"
+	},
+	{
+		"name": "Delta Junction",
+		"state_code": "AK"
+	},
+	{
+		"name": "Deltana",
+		"state_code": "AK"
+	},
+	{
+		"name": "Diamond Ridge",
+		"state_code": "AK"
+	},
+	{
+		"name": "Dillingham",
+		"state_code": "AK"
+	},
+	{
+		"name": "Diomede",
+		"state_code": "AK"
+	},
+	{
+		"name": "Dot Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Dot Lake Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Dry Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Eagle",
+		"state_code": "AK"
+	},
+	{
+		"name": "Eagle Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Edna Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Eek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Egegik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Eielson AFB",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ekwok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Elfin Cove",
+		"state_code": "AK"
+	},
+	{
+		"name": "Elim",
+		"state_code": "AK"
+	},
+	{
+		"name": "Emmonak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ester",
+		"state_code": "AK"
+	},
+	{
+		"name": "Evansville",
+		"state_code": "AK"
+	},
+	{
+		"name": "Excursion Inlet",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fairbanks",
+		"state_code": "AK"
+	},
+	{
+		"name": "False Pass",
+		"state_code": "AK"
+	},
+	{
+		"name": "Farm Loop",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ferry",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fishhook",
+		"state_code": "AK"
+	},
+	{
+		"name": "Flat",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fort Greely",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fort Yukon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Four Mile Road",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fox",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fox River",
+		"state_code": "AK"
+	},
+	{
+		"name": "Fritz Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Funny River",
+		"state_code": "AK"
+	},
+	{
+		"name": "Gakona",
+		"state_code": "AK"
+	},
+	{
+		"name": "Galena",
+		"state_code": "AK"
+	},
+	{
+		"name": "Gambell",
+		"state_code": "AK"
+	},
+	{
+		"name": "Game Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Gateway",
+		"state_code": "AK"
+	},
+	{
+		"name": "Glacier View",
+		"state_code": "AK"
+	},
+	{
+		"name": "Glennallen",
+		"state_code": "AK"
+	},
+	{
+		"name": "Golovin",
+		"state_code": "AK"
+	},
+	{
+		"name": "Goodnews Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Grayling",
+		"state_code": "AK"
+	},
+	{
+		"name": "Gulkana",
+		"state_code": "AK"
+	},
+	{
+		"name": "Gustavus",
+		"state_code": "AK"
+	},
+	{
+		"name": "Haines",
+		"state_code": "AK"
+	},
+	{
+		"name": "Halibut Cove",
+		"state_code": "AK"
+	},
+	{
+		"name": "Happy Valley",
+		"state_code": "AK"
+	},
+	{
+		"name": "Harding-Birch Lakes",
+		"state_code": "AK"
+	},
+	{
+		"name": "Healy",
+		"state_code": "AK"
+	},
+	{
+		"name": "Healy Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hobart Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hollis",
+		"state_code": "AK"
+	},
+	{
+		"name": "Holy Cross",
+		"state_code": "AK"
+	},
+	{
+		"name": "Homer",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hoonah",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hooper Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hope",
+		"state_code": "AK"
+	},
+	{
+		"name": "Houston",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hughes",
+		"state_code": "AK"
+	},
+	{
+		"name": "Huslia",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hydaburg",
+		"state_code": "AK"
+	},
+	{
+		"name": "Hyder",
+		"state_code": "AK"
+	},
+	{
+		"name": "Igiugig",
+		"state_code": "AK"
+	},
+	{
+		"name": "Iliamna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ivanof Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Juneau city and borough",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kachemak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kaktovik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kalifornsky",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kaltag",
+		"state_code": "AK"
+	},
+	{
+		"name": "Karluk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kasaan",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kasigluk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kasilof",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kenai",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kenny Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ketchikan",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kiana",
+		"state_code": "AK"
+	},
+	{
+		"name": "King Cove",
+		"state_code": "AK"
+	},
+	{
+		"name": "King Salmon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kipnuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kivalina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Klawock",
+		"state_code": "AK"
+	},
+	{
+		"name": "Klukwan",
+		"state_code": "AK"
+	},
+	{
+		"name": "Knik-Fairview",
+		"state_code": "AK"
+	},
+	{
+		"name": "Knik River",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kobuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kodiak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kodiak Station",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kokhanok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Koliganek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kongiganak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kotlik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kotzebue",
+		"state_code": "AK"
+	},
+	{
+		"name": "Koyuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Koyukuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kupreanof",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kwethluk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Kwigillingok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lake Louise",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lake Minchumina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lakes",
+		"state_code": "AK"
+	},
+	{
+		"name": "Larsen Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lazy Mountain",
+		"state_code": "AK"
+	},
+	{
+		"name": "Levelock",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lime Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Livengood",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lowell Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lower Kalskag",
+		"state_code": "AK"
+	},
+	{
+		"name": "Lutak",
+		"state_code": "AK"
+	},
+	{
+		"name": "McCarthy",
+		"state_code": "AK"
+	},
+	{
+		"name": "McGrath",
+		"state_code": "AK"
+	},
+	{
+		"name": "McKinley Park",
+		"state_code": "AK"
+	},
+	{
+		"name": "Manley Hot Springs",
+		"state_code": "AK"
+	},
+	{
+		"name": "Manokotak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Marshall",
+		"state_code": "AK"
+	},
+	{
+		"name": "Meadow Lakes",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mekoryuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mendeltna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mentasta Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Metlakatla",
+		"state_code": "AK"
+	},
+	{
+		"name": "Meyers Chuck",
+		"state_code": "AK"
+	},
+	{
+		"name": "Miller Landing",
+		"state_code": "AK"
+	},
+	{
+		"name": "Minto",
+		"state_code": "AK"
+	},
+	{
+		"name": "Moose Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Moose Pass",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mosquito Lake",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mountain Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Mud Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Naknek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nanwalek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Napakiak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Napaskiak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Naukati Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nelchina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nelson Lagoon",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nenana",
+		"state_code": "AK"
+	},
+	{
+		"name": "New Allakaket",
+		"state_code": "AK"
+	},
+	{
+		"name": "Newhalen",
+		"state_code": "AK"
+	},
+	{
+		"name": "New Stuyahok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Newtok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nightmute",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nikiski",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nikolaevsk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nikolai",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nikolski",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ninilchik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Noatak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nome",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nondalton",
+		"state_code": "AK"
+	},
+	{
+		"name": "Noorvik",
+		"state_code": "AK"
+	},
+	{
+		"name": "North Pole",
+		"state_code": "AK"
+	},
+	{
+		"name": "Northway",
+		"state_code": "AK"
+	},
+	{
+		"name": "Northway Junction",
+		"state_code": "AK"
+	},
+	{
+		"name": "Northway Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nuiqsut",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nulato",
+		"state_code": "AK"
+	},
+	{
+		"name": "Nunapitchuk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Old Harbor",
+		"state_code": "AK"
+	},
+	{
+		"name": "Oscarville",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ouzinkie",
+		"state_code": "AK"
+	},
+	{
+		"name": "Palmer",
+		"state_code": "AK"
+	},
+	{
+		"name": "Paxson",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pedro Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pelican",
+		"state_code": "AK"
+	},
+	{
+		"name": "Perryville",
+		"state_code": "AK"
+	},
+	{
+		"name": "Petersburg",
+		"state_code": "AK"
+	},
+	{
+		"name": "Petersville",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pilot Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pilot Station",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pitkas Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Platinum",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pleasant Valley",
+		"state_code": "AK"
+	},
+	{
+		"name": "Point Baker",
+		"state_code": "AK"
+	},
+	{
+		"name": "Point Hope",
+		"state_code": "AK"
+	},
+	{
+		"name": "Point Lay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Point MacKenzie",
+		"state_code": "AK"
+	},
+	{
+		"name": "Pope-Vannoy Landing",
+		"state_code": "AK"
+	},
+	{
+		"name": "Portage Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Alexander",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Alsworth",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Clarence",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Graham",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Heiden",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Lions",
+		"state_code": "AK"
+	},
+	{
+		"name": "Port Protection",
+		"state_code": "AK"
+	},
+	{
+		"name": "Primrose",
+		"state_code": "AK"
+	},
+	{
+		"name": "Prudhoe Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Quinhagak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Rampart",
+		"state_code": "AK"
+	},
+	{
+		"name": "Red Devil",
+		"state_code": "AK"
+	},
+	{
+		"name": "Red Dog Mine",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ridgeway",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ruby",
+		"state_code": "AK"
+	},
+	{
+		"name": "Russian Mission",
+		"state_code": "AK"
+	},
+	{
+		"name": "Saint George",
+		"state_code": "AK"
+	},
+	{
+		"name": "Saint Marys",
+		"state_code": "AK"
+	},
+	{
+		"name": "Saint Michael",
+		"state_code": "AK"
+	},
+	{
+		"name": "Saint Paul",
+		"state_code": "AK"
+	},
+	{
+		"name": "Salamatof",
+		"state_code": "AK"
+	},
+	{
+		"name": "Salcha",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sand Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Savoonga",
+		"state_code": "AK"
+	},
+	{
+		"name": "Saxman",
+		"state_code": "AK"
+	},
+	{
+		"name": "Scammon Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Selawik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Seldovia",
+		"state_code": "AK"
+	},
+	{
+		"name": "Seldovia Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Seward",
+		"state_code": "AK"
+	},
+	{
+		"name": "Shageluk",
+		"state_code": "AK"
+	},
+	{
+		"name": "Shaktoolik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sheldon Point",
+		"state_code": "AK"
+	},
+	{
+		"name": "Shishmaref",
+		"state_code": "AK"
+	},
+	{
+		"name": "Shungnak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Silver Springs",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sitka city and borough",
+		"state_code": "AK"
+	},
+	{
+		"name": "Skagway",
+		"state_code": "AK"
+	},
+	{
+		"name": "Skwentna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Slana",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sleetmute",
+		"state_code": "AK"
+	},
+	{
+		"name": "Soldotna",
+		"state_code": "AK"
+	},
+	{
+		"name": "South Naknek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Stebbins",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sterling",
+		"state_code": "AK"
+	},
+	{
+		"name": "Stevens Village",
+		"state_code": "AK"
+	},
+	{
+		"name": "Stony River",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sunrise",
+		"state_code": "AK"
+	},
+	{
+		"name": "Susitna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Sutton-Alpine",
+		"state_code": "AK"
+	},
+	{
+		"name": "Takotna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Talkeetna",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tanacross",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tanaina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tanana",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tatitlek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tazlina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Teller",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tenakee Springs",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tetlin",
+		"state_code": "AK"
+	},
+	{
+		"name": "Thoms Place",
+		"state_code": "AK"
+	},
+	{
+		"name": "Thorne Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Togiak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tok",
+		"state_code": "AK"
+	},
+	{
+		"name": "Toksook Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tolsona",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tonsina",
+		"state_code": "AK"
+	},
+	{
+		"name": "Trapper Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tuluksak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tuntutuliak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tununak",
+		"state_code": "AK"
+	},
+	{
+		"name": "Twin Hills",
+		"state_code": "AK"
+	},
+	{
+		"name": "Two Rivers",
+		"state_code": "AK"
+	},
+	{
+		"name": "Tyonek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ugashik",
+		"state_code": "AK"
+	},
+	{
+		"name": "Unalakleet",
+		"state_code": "AK"
+	},
+	{
+		"name": "Unalaska",
+		"state_code": "AK"
+	},
+	{
+		"name": "Upper Kalskag",
+		"state_code": "AK"
+	},
+	{
+		"name": "Valdez",
+		"state_code": "AK"
+	},
+	{
+		"name": "Venetie",
+		"state_code": "AK"
+	},
+	{
+		"name": "Wainwright",
+		"state_code": "AK"
+	},
+	{
+		"name": "Wales",
+		"state_code": "AK"
+	},
+	{
+		"name": "Wasilla",
+		"state_code": "AK"
+	},
+	{
+		"name": "Whale Pass",
+		"state_code": "AK"
+	},
+	{
+		"name": "White Mountain",
+		"state_code": "AK"
+	},
+	{
+		"name": "Whitestone Logging Camp",
+		"state_code": "AK"
+	},
+	{
+		"name": "Whittier",
+		"state_code": "AK"
+	},
+	{
+		"name": "Willow",
+		"state_code": "AK"
+	},
+	{
+		"name": "Willow Creek",
+		"state_code": "AK"
+	},
+	{
+		"name": "Wiseman",
+		"state_code": "AK"
+	},
+	{
+		"name": "Womens Bay",
+		"state_code": "AK"
+	},
+	{
+		"name": "Wrangell",
+		"state_code": "AK"
+	},
+	{
+		"name": "why",
+		"state_code": "AK"
+	},
+	{
+		"name": "Yakutat",
+		"state_code": "AK"
+	},
+	{
+		"name": "Ajo",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Ak-Chin Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Amado",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Apache Junction",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Arizona",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Arizona Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Ash Fork",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Avondale",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Avra Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bagdad",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Benson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Big Park",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bisbee",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bitter Springs",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Black Canyon",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Blackwater",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bluewater",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bouse",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Buckeye",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Bullhead",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Burnside",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cameron",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Camp Verde",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Canyon Day",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Carefree",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Casa Grande",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Casas Adobes",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Catalina",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Catalina Foothills",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cave Creek",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Central Heights-Midland",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Chandler",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Chilchinbito",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Chinle",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Chino Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Chuichu",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cibecue",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cibola",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Clarkdale",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Claypool",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Clifton",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Colorado",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Congress",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Coolidge",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cordes Lakes",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cornville",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Corona de Tucson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cottonwood",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Cottonwood-Verde Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Dennehotso",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Desert Hills",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Dewey-Humboldt",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Dilkon",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Dolan Springs",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Douglas",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Drexel-Alvernon",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Drexel Heights",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Dudleyville",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Duncan",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Eagar",
+		"state_code": "AZ"
+	},
+	{
+		"name": "East Fork",
+		"state_code": "AZ"
+	},
+	{
+		"name": "East Sahuarita",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Ehrenberg",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Elgin",
+		"state_code": "AZ"
+	},
+	{
+		"name": "El Mirage",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Eloy",
+		"state_code": "AZ"
+	},
+	{
+		"name": "First Mesa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Flagstaff",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Florence",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Flowing Wells",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Fort Defiance",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Fortuna Foothills",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Fountain Hills",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Fredonia",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Gadsden",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Ganado",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Gila Bend",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Gilbert",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Gisela",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Glendale",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Globe",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Gold Camp",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Golden Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Goodyear",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Grand Canyon Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Greasewood",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Green Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Guadalupe",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Hayden",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Heber-Overgaard",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Holbrook",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Hotevilla-Bacavi",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Houck",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Huachuca",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Jeddito",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Jerome",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kachina Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kaibab",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kaibito",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kayenta",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Keams Canyon",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kearny",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kingman",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Kykotsmovi Village",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Lake Havasu",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Lake Montezuma",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Lechee",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Leupp",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Litchfield Park",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Littletown",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Lukachukai",
+		"state_code": "AZ"
+	},
+	{
+		"name": "McNary",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mammoth",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Many Farms",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Marana",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Maricopa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mayer",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mesa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mesquite Creek",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Miami",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Moenkopi",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mohave Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mojave Ranch Estates",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Morenci",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Mountainaire",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Munds Park",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Naco",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Nazlini",
+		"state_code": "AZ"
+	},
+	{
+		"name": "New Kingman-Butler",
+		"state_code": "AZ"
+	},
+	{
+		"name": "New River",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Nogales",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Oljato-Monument Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Oracle",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Oro Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Page",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Paradise Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Parker",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Parker Strip",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Parks",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Patagonia",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Paulden",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Payson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Peach Springs",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Peeples Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Peoria",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Peridot",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Phoenix",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Picture Rocks",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pima",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pine",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pinetop-Lakeside",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pinon",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pirtleville",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Pisinemo",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Poston",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Prescott",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Prescott Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Quartzsite",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Queen Creek",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Queen Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Red Mesa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rio Rico Northeast",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rio Rico Northwest",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rio Rico Southeast",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rio Rico Southwest",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rio Verde",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rock Point",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Rough Rock",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Round Rock",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sacaton",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Safford",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sahuarita",
+		"state_code": "AZ"
+	},
+	{
+		"name": "St David",
+		"state_code": "AZ"
+	},
+	{
+		"name": "St Johns",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Saint Michaels",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Salome",
+		"state_code": "AZ"
+	},
+	{
+		"name": "San Carlos",
+		"state_code": "AZ"
+	},
+	{
+		"name": "San Luis",
+		"state_code": "AZ"
+	},
+	{
+		"name": "San Manuel",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Santan",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Santa Rosa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sawmill",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Scottsdale",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Second Mesa",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sedona",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Seligman",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sells",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Shongopovi",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Shonto",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Show Low",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sierra Vista",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sierra Vista Southeast",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Snowflake",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Somerton",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sonoita",
+		"state_code": "AZ"
+	},
+	{
+		"name": "South Tucson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Springerville",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Spring Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Stanfield",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Steamboat",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Strawberry",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Summit",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sun",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sun West",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sun Lakes",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Sun Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Supai",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Superior",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Surprise",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Swift Trail Junction",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tacna",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tanque Verde",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Taylor",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Teec Nos Pos",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tempe",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Thatcher",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Three Points",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tolleson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tombstone",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tonalea",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tonto Basin",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Top-of-the-World",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tortolita",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tsaile",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tubac",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tuba",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tucson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tucson Estates",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tumacacori-Carmen",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Tusayan",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Vail",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Valencia West",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Wellton",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Wenden",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Whetstone",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Whiteriver",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Wickenburg",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Wilhoit",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Willcox",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Williams",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Williamson",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Willow Valley",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Window Rock",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Winkelman",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Winslow",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Winslow West",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Yarnell",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Young",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Youngtown",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Yuma",
+		"state_code": "AZ"
+	},
+	{
+		"name": "Adona",
+		"state_code": "AR"
+	},
+	{
+		"name": "Alexander",
+		"state_code": "AR"
+	},
+	{
+		"name": "Alicia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Allport",
+		"state_code": "AR"
+	},
+	{
+		"name": "Alma",
+		"state_code": "AR"
+	},
+	{
+		"name": "Almyra",
+		"state_code": "AR"
+	},
+	{
+		"name": "Alpena",
+		"state_code": "AR"
+	},
+	{
+		"name": "Altheimer",
+		"state_code": "AR"
+	},
+	{
+		"name": "Altus",
+		"state_code": "AR"
+	},
+	{
+		"name": "Amagon",
+		"state_code": "AR"
+	},
+	{
+		"name": "Amity",
+		"state_code": "AR"
+	},
+	{
+		"name": "Anthonyville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Antoine",
+		"state_code": "AR"
+	},
+	{
+		"name": "Arkadelphia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Arkansas",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ashdown",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ash Flat",
+		"state_code": "AR"
+	},
+	{
+		"name": "Atkins",
+		"state_code": "AR"
+	},
+	{
+		"name": "Aubrey",
+		"state_code": "AR"
+	},
+	{
+		"name": "Augusta",
+		"state_code": "AR"
+	},
+	{
+		"name": "Austin",
+		"state_code": "AR"
+	},
+	{
+		"name": "Avoca",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bald Knob",
+		"state_code": "AR"
+	},
+	{
+		"name": "Banks",
+		"state_code": "AR"
+	},
+	{
+		"name": "Barling",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bassett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Batesville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bauxite",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bay",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bearden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Beaver",
+		"state_code": "AR"
+	},
+	{
+		"name": "Beebe",
+		"state_code": "AR"
+	},
+	{
+		"name": "Beedeville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bella Vista",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bellefonte",
+		"state_code": "AR"
+	},
+	{
+		"name": "Belleville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ben Lomond",
+		"state_code": "AR"
+	},
+	{
+		"name": "Benton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bentonville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bergman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Berryville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bethel Heights",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bigelow",
+		"state_code": "AR"
+	},
+	{
+		"name": "Big Flat",
+		"state_code": "AR"
+	},
+	{
+		"name": "Biggers",
+		"state_code": "AR"
+	},
+	{
+		"name": "Birdsong",
+		"state_code": "AR"
+	},
+	{
+		"name": "Black Oak",
+		"state_code": "AR"
+	},
+	{
+		"name": "Black Rock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Black Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Blevins",
+		"state_code": "AR"
+	},
+	{
+		"name": "Blue Eye",
+		"state_code": "AR"
+	},
+	{
+		"name": "Blue Mountain",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bluff",
+		"state_code": "AR"
+	},
+	{
+		"name": "Blytheville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bodcaw",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bonanza",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bono",
+		"state_code": "AR"
+	},
+	{
+		"name": "Booneville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bradford",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bradley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Branch",
+		"state_code": "AR"
+	},
+	{
+		"name": "Briarcliff",
+		"state_code": "AR"
+	},
+	{
+		"name": "Brinkley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Brookland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bryant",
+		"state_code": "AR"
+	},
+	{
+		"name": "Buckner",
+		"state_code": "AR"
+	},
+	{
+		"name": "Bull Shoals",
+		"state_code": "AR"
+	},
+	{
+		"name": "Burdette",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cabot",
+		"state_code": "AR"
+	},
+	{
+		"name": "Caddo Valley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Caldwell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cale",
+		"state_code": "AR"
+	},
+	{
+		"name": "Calico Rock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Calion",
+		"state_code": "AR"
+	},
+	{
+		"name": "Camden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cammack Village",
+		"state_code": "AR"
+	},
+	{
+		"name": "Campbell Station",
+		"state_code": "AR"
+	},
+	{
+		"name": "Caraway",
+		"state_code": "AR"
+	},
+	{
+		"name": "Carlisle",
+		"state_code": "AR"
+	},
+	{
+		"name": "Carthage",
+		"state_code": "AR"
+	},
+	{
+		"name": "Casa",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cash",
+		"state_code": "AR"
+	},
+	{
+		"name": "Caulksville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cave",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cave Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cedarville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Centerton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Central",
+		"state_code": "AR"
+	},
+	{
+		"name": "Charleston",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cherokee Village",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cherry Valley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Chester",
+		"state_code": "AR"
+	},
+	{
+		"name": "Chidester",
+		"state_code": "AR"
+	},
+	{
+		"name": "Clarendon",
+		"state_code": "AR"
+	},
+	{
+		"name": "Clarksville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Clinton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Coal Hill",
+		"state_code": "AR"
+	},
+	{
+		"name": "College",
+		"state_code": "AR"
+	},
+	{
+		"name": "College Station",
+		"state_code": "AR"
+	},
+	{
+		"name": "Colt",
+		"state_code": "AR"
+	},
+	{
+		"name": "Concord",
+		"state_code": "AR"
+	},
+	{
+		"name": "Conway",
+		"state_code": "AR"
+	},
+	{
+		"name": "Corinth",
+		"state_code": "AR"
+	},
+	{
+		"name": "Corning",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cotter",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cotton Plant",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cove",
+		"state_code": "AR"
+	},
+	{
+		"name": "Coy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Crawfordsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Crossett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Cushman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Daisy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Damascus",
+		"state_code": "AR"
+	},
+	{
+		"name": "Danville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dardanelle",
+		"state_code": "AR"
+	},
+	{
+		"name": "Datto",
+		"state_code": "AR"
+	},
+	{
+		"name": "Decatur",
+		"state_code": "AR"
+	},
+	{
+		"name": "Delaplaine",
+		"state_code": "AR"
+	},
+	{
+		"name": "Delight",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Denning",
+		"state_code": "AR"
+	},
+	{
+		"name": "De Queen",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dermott",
+		"state_code": "AR"
+	},
+	{
+		"name": "Des Arc",
+		"state_code": "AR"
+	},
+	{
+		"name": "De Valls Bluff",
+		"state_code": "AR"
+	},
+	{
+		"name": "De Witt",
+		"state_code": "AR"
+	},
+	{
+		"name": "Diamond",
+		"state_code": "AR"
+	},
+	{
+		"name": "Diaz",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dierks",
+		"state_code": "AR"
+	},
+	{
+		"name": "Donaldson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dover",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dumas",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dyer",
+		"state_code": "AR"
+	},
+	{
+		"name": "Dyess",
+		"state_code": "AR"
+	},
+	{
+		"name": "Earle",
+		"state_code": "AR"
+	},
+	{
+		"name": "East Camden",
+		"state_code": "AR"
+	},
+	{
+		"name": "East End",
+		"state_code": "AR"
+	},
+	{
+		"name": "Edmondson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Egypt",
+		"state_code": "AR"
+	},
+	{
+		"name": "Elaine",
+		"state_code": "AR"
+	},
+	{
+		"name": "El Dorado",
+		"state_code": "AR"
+	},
+	{
+		"name": "Elkins",
+		"state_code": "AR"
+	},
+	{
+		"name": "Elm Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Emerson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Emmet",
+		"state_code": "AR"
+	},
+	{
+		"name": "England",
+		"state_code": "AR"
+	},
+	{
+		"name": "Enola",
+		"state_code": "AR"
+	},
+	{
+		"name": "Etowah",
+		"state_code": "AR"
+	},
+	{
+		"name": "Eudora",
+		"state_code": "AR"
+	},
+	{
+		"name": "Eureka Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Evening Shade",
+		"state_code": "AR"
+	},
+	{
+		"name": "Everton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fairfield Bay",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fargo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Farmington",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fayetteville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Felsenthal",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fifty-Six",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fisher",
+		"state_code": "AR"
+	},
+	{
+		"name": "Flippin",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fordyce",
+		"state_code": "AR"
+	},
+	{
+		"name": "Foreman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Forrest",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fort Smith",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fouke",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fountain Hill",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fountain Lake",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fourche",
+		"state_code": "AR"
+	},
+	{
+		"name": "Franklin",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fredonia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Friendship",
+		"state_code": "AR"
+	},
+	{
+		"name": "Fulton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Garfield",
+		"state_code": "AR"
+	},
+	{
+		"name": "Garland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Garner",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gassville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gateway",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gentry",
+		"state_code": "AR"
+	},
+	{
+		"name": "Georgetown",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gibson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gilbert",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gillett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gillham",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gilmore",
+		"state_code": "AR"
+	},
+	{
+		"name": "Glenwood",
+		"state_code": "AR"
+	},
+	{
+		"name": "Goshen",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gosnell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gould",
+		"state_code": "AR"
+	},
+	{
+		"name": "Grady",
+		"state_code": "AR"
+	},
+	{
+		"name": "Grannis",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gravel Ridge",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gravette",
+		"state_code": "AR"
+	},
+	{
+		"name": "Greenbrier",
+		"state_code": "AR"
+	},
+	{
+		"name": "Green Forest",
+		"state_code": "AR"
+	},
+	{
+		"name": "Greenland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Greenway",
+		"state_code": "AR"
+	},
+	{
+		"name": "Greenwood",
+		"state_code": "AR"
+	},
+	{
+		"name": "Greers Ferry",
+		"state_code": "AR"
+	},
+	{
+		"name": "Griffithville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Grubbs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Guion",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gum Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Gurdon",
+		"state_code": "AR"
+	},
+	{
+		"name": "Guy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hackett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hamburg",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hampton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hardy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Harrell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Harrisburg",
+		"state_code": "AR"
+	},
+	{
+		"name": "Harrison",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hartford",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hartman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Haskell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hatfield",
+		"state_code": "AR"
+	},
+	{
+		"name": "Havana",
+		"state_code": "AR"
+	},
+	{
+		"name": "Haynes",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hazen",
+		"state_code": "AR"
+	},
+	{
+		"name": "Heber Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hector",
+		"state_code": "AR"
+	},
+	{
+		"name": "Helena",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hensley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hermitage",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hickory Ridge",
+		"state_code": "AR"
+	},
+	{
+		"name": "Higden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Higginson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Highfill",
+		"state_code": "AR"
+	},
+	{
+		"name": "Highland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hindsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Holland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Holly Grove",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hope",
+		"state_code": "AR"
+	},
+	{
+		"name": "Horatio",
+		"state_code": "AR"
+	},
+	{
+		"name": "Horseshoe Bend",
+		"state_code": "AR"
+	},
+	{
+		"name": "Horseshoe Lake",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hot Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hot Springs Village",
+		"state_code": "AR"
+	},
+	{
+		"name": "Houston",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hoxie",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hughes",
+		"state_code": "AR"
+	},
+	{
+		"name": "Humnoke",
+		"state_code": "AR"
+	},
+	{
+		"name": "Humphrey",
+		"state_code": "AR"
+	},
+	{
+		"name": "Hunter",
+		"state_code": "AR"
+	},
+	{
+		"name": "Huntington",
+		"state_code": "AR"
+	},
+	{
+		"name": "Huntsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Huttig",
+		"state_code": "AR"
+	},
+	{
+		"name": "Imboden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jacksonport",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jacksonville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jasper",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jennette",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jericho",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jerome",
+		"state_code": "AR"
+	},
+	{
+		"name": "Johnson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Joiner",
+		"state_code": "AR"
+	},
+	{
+		"name": "Jonesboro",
+		"state_code": "AR"
+	},
+	{
+		"name": "Judsonia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Junction",
+		"state_code": "AR"
+	},
+	{
+		"name": "Keiser",
+		"state_code": "AR"
+	},
+	{
+		"name": "Kensett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Keo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Kibler",
+		"state_code": "AR"
+	},
+	{
+		"name": "Kingsland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Knobel",
+		"state_code": "AR"
+	},
+	{
+		"name": "Knoxville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lafe",
+		"state_code": "AR"
+	},
+	{
+		"name": "LaGrange",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lake",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lake Hamilton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lakeview",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lake View",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lake Village",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lamar",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lavaca",
+		"state_code": "AR"
+	},
+	{
+		"name": "Leachville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lead Hill",
+		"state_code": "AR"
+	},
+	{
+		"name": "Leola",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lepanto",
+		"state_code": "AR"
+	},
+	{
+		"name": "Leslie",
+		"state_code": "AR"
+	},
+	{
+		"name": "Letona",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lewisville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lexa",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lincoln",
+		"state_code": "AR"
+	},
+	{
+		"name": "Little Flock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Little Rock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lockesburg",
+		"state_code": "AR"
+	},
+	{
+		"name": "London",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lonoke",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lonsdale",
+		"state_code": "AR"
+	},
+	{
+		"name": "Louann",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lowell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Luxora",
+		"state_code": "AR"
+	},
+	{
+		"name": "Lynn",
+		"state_code": "AR"
+	},
+	{
+		"name": "McAlmont",
+		"state_code": "AR"
+	},
+	{
+		"name": "McCaskill",
+		"state_code": "AR"
+	},
+	{
+		"name": "McCrory",
+		"state_code": "AR"
+	},
+	{
+		"name": "McDougal",
+		"state_code": "AR"
+	},
+	{
+		"name": "McGehee",
+		"state_code": "AR"
+	},
+	{
+		"name": "McNab",
+		"state_code": "AR"
+	},
+	{
+		"name": "McNeil",
+		"state_code": "AR"
+	},
+	{
+		"name": "McRae",
+		"state_code": "AR"
+	},
+	{
+		"name": "Madison",
+		"state_code": "AR"
+	},
+	{
+		"name": "Magazine",
+		"state_code": "AR"
+	},
+	{
+		"name": "Magness",
+		"state_code": "AR"
+	},
+	{
+		"name": "Magnolia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Malvern",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mammoth Spring",
+		"state_code": "AR"
+	},
+	{
+		"name": "Manila",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mansfield",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marianna",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marie",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marion",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marked Tree",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marmaduke",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marshall",
+		"state_code": "AR"
+	},
+	{
+		"name": "Marvell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Maumelle",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mayflower",
+		"state_code": "AR"
+	},
+	{
+		"name": "Maynard",
+		"state_code": "AR"
+	},
+	{
+		"name": "Melbourne",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mena",
+		"state_code": "AR"
+	},
+	{
+		"name": "Menifee",
+		"state_code": "AR"
+	},
+	{
+		"name": "Midland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mineral Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Minturn",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mitchellville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Monette",
+		"state_code": "AR"
+	},
+	{
+		"name": "Monticello",
+		"state_code": "AR"
+	},
+	{
+		"name": "Montrose",
+		"state_code": "AR"
+	},
+	{
+		"name": "Moorefield",
+		"state_code": "AR"
+	},
+	{
+		"name": "Moro",
+		"state_code": "AR"
+	},
+	{
+		"name": "Morrilton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Morrison Bluff",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mountainburg",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mountain Home",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mountain Pine",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mountain View",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mount Ida",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mount Pleasant",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mount Vernon",
+		"state_code": "AR"
+	},
+	{
+		"name": "Mulberry",
+		"state_code": "AR"
+	},
+	{
+		"name": "Murfreesboro",
+		"state_code": "AR"
+	},
+	{
+		"name": "Nashville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Newark",
+		"state_code": "AR"
+	},
+	{
+		"name": "Newport",
+		"state_code": "AR"
+	},
+	{
+		"name": "Nimmons",
+		"state_code": "AR"
+	},
+	{
+		"name": "Norfork",
+		"state_code": "AR"
+	},
+	{
+		"name": "Norman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Norphlet",
+		"state_code": "AR"
+	},
+	{
+		"name": "North Crossett",
+		"state_code": "AR"
+	},
+	{
+		"name": "North Little Rock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oak Grove",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oak Grove Heights",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oakhaven",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ogden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oil Trough",
+		"state_code": "AR"
+	},
+	{
+		"name": "OKean",
+		"state_code": "AR"
+	},
+	{
+		"name": "Okolona",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ola",
+		"state_code": "AR"
+	},
+	{
+		"name": "Omaha",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oppelo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Osceola",
+		"state_code": "AR"
+	},
+	{
+		"name": "Oxford",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ozan",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ozark",
+		"state_code": "AR"
+	},
+	{
+		"name": "Palestine",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pangburn",
+		"state_code": "AR"
+	},
+	{
+		"name": "Paragould",
+		"state_code": "AR"
+	},
+	{
+		"name": "Paris",
+		"state_code": "AR"
+	},
+	{
+		"name": "Parkdale",
+		"state_code": "AR"
+	},
+	{
+		"name": "Parkers-Iron Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Parkin",
+		"state_code": "AR"
+	},
+	{
+		"name": "Patmos",
+		"state_code": "AR"
+	},
+	{
+		"name": "Patterson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Peach Orchard",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pea Ridge",
+		"state_code": "AR"
+	},
+	{
+		"name": "Perla",
+		"state_code": "AR"
+	},
+	{
+		"name": "Perry",
+		"state_code": "AR"
+	},
+	{
+		"name": "Perrytown",
+		"state_code": "AR"
+	},
+	{
+		"name": "Perryville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Piggott",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pindall",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pine Bluff",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pineville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Piney",
+		"state_code": "AR"
+	},
+	{
+		"name": "Plainview",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pleasant Plains",
+		"state_code": "AR"
+	},
+	{
+		"name": "Plumerville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pocahontas",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pollard",
+		"state_code": "AR"
+	},
+	{
+		"name": "Portia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Portland",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pottsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Powhatan",
+		"state_code": "AR"
+	},
+	{
+		"name": "Poyen",
+		"state_code": "AR"
+	},
+	{
+		"name": "Prairie Creek",
+		"state_code": "AR"
+	},
+	{
+		"name": "Prairie Grove",
+		"state_code": "AR"
+	},
+	{
+		"name": "Prattsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Prescott",
+		"state_code": "AR"
+	},
+	{
+		"name": "Pyatt",
+		"state_code": "AR"
+	},
+	{
+		"name": "Quitman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ratcliff",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ravenden",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ravenden Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Reader",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rector",
+		"state_code": "AR"
+	},
+	{
+		"name": "Redfield",
+		"state_code": "AR"
+	},
+	{
+		"name": "Reed",
+		"state_code": "AR"
+	},
+	{
+		"name": "Reyno",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rison",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rockport",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rockwell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Roe",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rogers",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rondo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rose Bud",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rosston",
+		"state_code": "AR"
+	},
+	{
+		"name": "Rudy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Russell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Russellville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Saint Charles",
+		"state_code": "AR"
+	},
+	{
+		"name": "Saint Francis",
+		"state_code": "AR"
+	},
+	{
+		"name": "Saint Joe",
+		"state_code": "AR"
+	},
+	{
+		"name": "Saint Paul",
+		"state_code": "AR"
+	},
+	{
+		"name": "Salem",
+		"state_code": "AR"
+	},
+	{
+		"name": "Salem",
+		"state_code": "AR"
+	},
+	{
+		"name": "Salesville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Scott",
+		"state_code": "AR"
+	},
+	{
+		"name": "Scranton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Searcy",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sedgwick",
+		"state_code": "AR"
+	},
+	{
+		"name": "Shannon Hills",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sheridan",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sherrill",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sherwood",
+		"state_code": "AR"
+	},
+	{
+		"name": "Shirley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sidney",
+		"state_code": "AR"
+	},
+	{
+		"name": "Siloam Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Smackover",
+		"state_code": "AR"
+	},
+	{
+		"name": "Smithville",
+		"state_code": "AR"
+	},
+	{
+		"name": "South Lead Hill",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sparkman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Springdale",
+		"state_code": "AR"
+	},
+	{
+		"name": "Springtown",
+		"state_code": "AR"
+	},
+	{
+		"name": "Stamps",
+		"state_code": "AR"
+	},
+	{
+		"name": "Star",
+		"state_code": "AR"
+	},
+	{
+		"name": "Stephens",
+		"state_code": "AR"
+	},
+	{
+		"name": "Strawberry",
+		"state_code": "AR"
+	},
+	{
+		"name": "Strong",
+		"state_code": "AR"
+	},
+	{
+		"name": "Stuttgart",
+		"state_code": "AR"
+	},
+	{
+		"name": "Subiaco",
+		"state_code": "AR"
+	},
+	{
+		"name": "Success",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sulphur Rock",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sulphur Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Summit",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sunset",
+		"state_code": "AR"
+	},
+	{
+		"name": "Sweet Home",
+		"state_code": "AR"
+	},
+	{
+		"name": "Swifton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Taylor",
+		"state_code": "AR"
+	},
+	{
+		"name": "Texarkana",
+		"state_code": "AR"
+	},
+	{
+		"name": "Thornton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tillar",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tinsman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tollette",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tontitown",
+		"state_code": "AR"
+	},
+	{
+		"name": "Traskwood",
+		"state_code": "AR"
+	},
+	{
+		"name": "Trumann",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tuckerman",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tull",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tupelo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Turrell",
+		"state_code": "AR"
+	},
+	{
+		"name": "Twin Groves",
+		"state_code": "AR"
+	},
+	{
+		"name": "Tyronza",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ulm",
+		"state_code": "AR"
+	},
+	{
+		"name": "Valley Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "Van Buren",
+		"state_code": "AR"
+	},
+	{
+		"name": "Vandervoort",
+		"state_code": "AR"
+	},
+	{
+		"name": "Victoria",
+		"state_code": "AR"
+	},
+	{
+		"name": "Vilonia",
+		"state_code": "AR"
+	},
+	{
+		"name": "Viola",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wabbaseka",
+		"state_code": "AR"
+	},
+	{
+		"name": "Waldenburg",
+		"state_code": "AR"
+	},
+	{
+		"name": "Waldo",
+		"state_code": "AR"
+	},
+	{
+		"name": "Waldron",
+		"state_code": "AR"
+	},
+	{
+		"name": "Walnut Ridge",
+		"state_code": "AR"
+	},
+	{
+		"name": "Ward",
+		"state_code": "AR"
+	},
+	{
+		"name": "Warren",
+		"state_code": "AR"
+	},
+	{
+		"name": "Washington",
+		"state_code": "AR"
+	},
+	{
+		"name": "Watson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Weiner",
+		"state_code": "AR"
+	},
+	{
+		"name": "Weldon",
+		"state_code": "AR"
+	},
+	{
+		"name": "West Crossett",
+		"state_code": "AR"
+	},
+	{
+		"name": "Western Grove",
+		"state_code": "AR"
+	},
+	{
+		"name": "West Fork",
+		"state_code": "AR"
+	},
+	{
+		"name": "West Helena",
+		"state_code": "AR"
+	},
+	{
+		"name": "West Memphis",
+		"state_code": "AR"
+	},
+	{
+		"name": "West Point",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wheatley",
+		"state_code": "AR"
+	},
+	{
+		"name": "Whelen Springs",
+		"state_code": "AR"
+	},
+	{
+		"name": "White Hall",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wickes",
+		"state_code": "AR"
+	},
+	{
+		"name": "Widener",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wiederkehr Village",
+		"state_code": "AR"
+	},
+	{
+		"name": "Williford",
+		"state_code": "AR"
+	},
+	{
+		"name": "Willisville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wilmar",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wilmot",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wilson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wilton",
+		"state_code": "AR"
+	},
+	{
+		"name": "Winchester",
+		"state_code": "AR"
+	},
+	{
+		"name": "Winslow",
+		"state_code": "AR"
+	},
+	{
+		"name": "Winthrop",
+		"state_code": "AR"
+	},
+	{
+		"name": "Woodson",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wooster",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wrightsville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Wynne",
+		"state_code": "AR"
+	},
+	{
+		"name": "Yellville",
+		"state_code": "AR"
+	},
+	{
+		"name": "Zinc",
+		"state_code": "AR"
+	},
+	{
+		"name": "Acton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Adelanto",
+		"state_code": "CA"
+	},
+	{
+		"name": "Agoura Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alameda",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alamo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Albany",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alhambra",
+		"state_code": "CA"
+	},
+	{
+		"name": "Aliso Viejo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Almanor",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alondra Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alpaugh",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alpine",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alpine Village",
+		"state_code": "CA"
+	},
+	{
+		"name": "Altadena",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alta Sierra",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alturas",
+		"state_code": "CA"
+	},
+	{
+		"name": "Alum Rock",
+		"state_code": "CA"
+	},
+	{
+		"name": "Amador",
+		"state_code": "CA"
+	},
+	{
+		"name": "American Canyon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Amesti",
+		"state_code": "CA"
+	},
+	{
+		"name": "Anaheim",
+		"state_code": "CA"
+	},
+	{
+		"name": "Anderson",
+		"state_code": "CA"
+	},
+	{
+		"name": "Angels",
+		"state_code": "CA"
+	},
+	{
+		"name": "Angwin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Antioch",
+		"state_code": "CA"
+	},
+	{
+		"name": "Apple Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Aptos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Aptos Hills-Larkin Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arbuckle",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arcadia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arcata",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arden-Arcade",
+		"state_code": "CA"
+	},
+	{
+		"name": "Armona",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arnold",
+		"state_code": "CA"
+	},
+	{
+		"name": "Aromas",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arroyo Grande",
+		"state_code": "CA"
+	},
+	{
+		"name": "Artesia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Arvin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ashland",
+		"state_code": "CA"
+	},
+	{
+		"name": "Atascadero",
+		"state_code": "CA"
+	},
+	{
+		"name": "Atherton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Atwater",
+		"state_code": "CA"
+	},
+	{
+		"name": "Auberry",
+		"state_code": "CA"
+	},
+	{
+		"name": "Auburn",
+		"state_code": "CA"
+	},
+	{
+		"name": "August",
+		"state_code": "CA"
+	},
+	{
+		"name": "Avalon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Avenal",
+		"state_code": "CA"
+	},
+	{
+		"name": "Avery",
+		"state_code": "CA"
+	},
+	{
+		"name": "Avocado Heights",
+		"state_code": "CA"
+	},
+	{
+		"name": "Azusa",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bakersfield",
+		"state_code": "CA"
+	},
+	{
+		"name": "Baldwin Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Banning",
+		"state_code": "CA"
+	},
+	{
+		"name": "Barstow",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bay Point",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bayview",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bayview-Montalvin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Baywood-Los Osos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Beale AFB",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bear Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bear Valley Springs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Beaumont",
+		"state_code": "CA"
+	},
+	{
+		"name": "Beckwourth",
+		"state_code": "CA"
+	},
+	{
+		"name": "Belden",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bell",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bellflower",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bell Gardens",
+		"state_code": "CA"
+	},
+	{
+		"name": "Belmont",
+		"state_code": "CA"
+	},
+	{
+		"name": "Belvedere",
+		"state_code": "CA"
+	},
+	{
+		"name": "Benicia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ben Lomond",
+		"state_code": "CA"
+	},
+	{
+		"name": "Berkeley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bermuda Dunes",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bertsch-Oceanview",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bethel Island",
+		"state_code": "CA"
+	},
+	{
+		"name": "Beverly Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Big Bear",
+		"state_code": "CA"
+	},
+	{
+		"name": "Big Bear Lake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Big Bend",
+		"state_code": "CA"
+	},
+	{
+		"name": "Biggs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Big Pine",
+		"state_code": "CA"
+	},
+	{
+		"name": "Big River",
+		"state_code": "CA"
+	},
+	{
+		"name": "Biola",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bishop",
+		"state_code": "CA"
+	},
+	{
+		"name": "Blackhawk-Camino Tassajara",
+		"state_code": "CA"
+	},
+	{
+		"name": "Black Point-Green Point",
+		"state_code": "CA"
+	},
+	{
+		"name": "Blairsden",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bloomington",
+		"state_code": "CA"
+	},
+	{
+		"name": "Blue Lake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bluewater",
+		"state_code": "CA"
+	},
+	{
+		"name": "Blythe",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bodega Bay",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bodfish",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bolinas",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bombay Beach",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bonadelle Ranchos-Madera Ranchos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bonita",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bonsall",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bootjack",
+		"state_code": "CA"
+	},
+	{
+		"name": "Boron",
+		"state_code": "CA"
+	},
+	{
+		"name": "Boronda",
+		"state_code": "CA"
+	},
+	{
+		"name": "Borrego Springs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bostonia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Boulder Creek",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bowles",
+		"state_code": "CA"
+	},
+	{
+		"name": "Boyes Hot Springs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bradbury",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bradley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Brawley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Brea",
+		"state_code": "CA"
+	},
+	{
+		"name": "Brentwood",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bret Harte",
+		"state_code": "CA"
+	},
+	{
+		"name": "Brisbane",
+		"state_code": "CA"
+	},
+	{
+		"name": "Broadmoor",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bucks Lake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Buellton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Buena Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Buena Vista",
+		"state_code": "CA"
+	},
+	{
+		"name": "Burbank",
+		"state_code": "CA"
+	},
+	{
+		"name": "Burbank",
+		"state_code": "CA"
+	},
+	{
+		"name": "Burlingame",
+		"state_code": "CA"
+	},
+	{
+		"name": "Burney",
+		"state_code": "CA"
+	},
+	{
+		"name": "Buttonwillow",
+		"state_code": "CA"
+	},
+	{
+		"name": "Byron",
+		"state_code": "CA"
+	},
+	{
+		"name": "Bystrom",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cabazon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calabasas",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calexico",
+		"state_code": "CA"
+	},
+	{
+		"name": "California",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calimesa",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calipatria",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calistoga",
+		"state_code": "CA"
+	},
+	{
+		"name": "Calwa",
+		"state_code": "CA"
+	},
+	{
+		"name": "Camarillo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cambria",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cambrian Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cameron Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Campbell",
+		"state_code": "CA"
+	},
+	{
+		"name": "Camp Pendleton North",
+		"state_code": "CA"
+	},
+	{
+		"name": "Camp Pendleton South",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cantua Creek",
+		"state_code": "CA"
+	},
+	{
+		"name": "Canyondam",
+		"state_code": "CA"
+	},
+	{
+		"name": "Canyon Lake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Capitola",
+		"state_code": "CA"
+	},
+	{
+		"name": "Caribou",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carlsbad",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carmel-by-the-Sea",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carmel Valley Village",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carmichael",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carpinteria",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carrick",
+		"state_code": "CA"
+	},
+	{
+		"name": "Carson",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cartago",
+		"state_code": "CA"
+	},
+	{
+		"name": "Caruthers",
+		"state_code": "CA"
+	},
+	{
+		"name": "Casa Conejo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Casa de Oro-Mount Helix",
+		"state_code": "CA"
+	},
+	{
+		"name": "Castro Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Castroville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cathedral",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cayucos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ceres",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cerritos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Challenge-Brownsville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Channel Islands Beach",
+		"state_code": "CA"
+	},
+	{
+		"name": "Charter Oak",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cherryland",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cherry Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chester",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chico",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chilcoot-Vinton",
+		"state_code": "CA"
+	},
+	{
+		"name": "China Lake Acres",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chinese Camp",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chino",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chino Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chowchilla",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chualar",
+		"state_code": "CA"
+	},
+	{
+		"name": "Chula Vista",
+		"state_code": "CA"
+	},
+	{
+		"name": "Citrus",
+		"state_code": "CA"
+	},
+	{
+		"name": "Citrus Heights",
+		"state_code": "CA"
+	},
+	{
+		"name": "Claremont",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clayton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clearlake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clearlake Oaks",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clio",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cloverdale",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clovis",
+		"state_code": "CA"
+	},
+	{
+		"name": "Clyde",
+		"state_code": "CA"
+	},
+	{
+		"name": "Coachella",
+		"state_code": "CA"
+	},
+	{
+		"name": "Coalinga",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cobb",
+		"state_code": "CA"
+	},
+	{
+		"name": "Colfax",
+		"state_code": "CA"
+	},
+	{
+		"name": "Colma",
+		"state_code": "CA"
+	},
+	{
+		"name": "Colton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Columbia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Colusa",
+		"state_code": "CA"
+	},
+	{
+		"name": "Commerce",
+		"state_code": "CA"
+	},
+	{
+		"name": "Compton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Concord",
+		"state_code": "CA"
+	},
+	{
+		"name": "Concow",
+		"state_code": "CA"
+	},
+	{
+		"name": "Copperopolis",
+		"state_code": "CA"
+	},
+	{
+		"name": "Corcoran",
+		"state_code": "CA"
+	},
+	{
+		"name": "Corning",
+		"state_code": "CA"
+	},
+	{
+		"name": "Corona",
+		"state_code": "CA"
+	},
+	{
+		"name": "Coronado",
+		"state_code": "CA"
+	},
+	{
+		"name": "Corralitos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Corte Madera",
+		"state_code": "CA"
+	},
+	{
+		"name": "Costa Mesa",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cotati",
+		"state_code": "CA"
+	},
+	{
+		"name": "Coto de Caza",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cottonwood",
+		"state_code": "CA"
+	},
+	{
+		"name": "Country Club",
+		"state_code": "CA"
+	},
+	{
+		"name": "Covelo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Covina",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crescent",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crescent North",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crescent Mills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crest",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crestline",
+		"state_code": "CA"
+	},
+	{
+		"name": "C-Road",
+		"state_code": "CA"
+	},
+	{
+		"name": "Crockett",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cromberg",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cudahy",
+		"state_code": "CA"
+	},
+	{
+		"name": "Culver",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cupertino",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cutler",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cutten",
+		"state_code": "CA"
+	},
+	{
+		"name": "Cypress",
+		"state_code": "CA"
+	},
+	{
+		"name": "Daly",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dana Point",
+		"state_code": "CA"
+	},
+	{
+		"name": "Danville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Darwin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Davis",
+		"state_code": "CA"
+	},
+	{
+		"name": "Day Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Deer Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Aire",
+		"state_code": "CA"
+	},
+	{
+		"name": "Delano",
+		"state_code": "CA"
+	},
+	{
+		"name": "Delhi",
+		"state_code": "CA"
+	},
+	{
+		"name": "Delleker",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Mar",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Monte Forest",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Rey",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Rey Oaks",
+		"state_code": "CA"
+	},
+	{
+		"name": "Del Rio",
+		"state_code": "CA"
+	},
+	{
+		"name": "Denair",
+		"state_code": "CA"
+	},
+	{
+		"name": "Derby Acres",
+		"state_code": "CA"
+	},
+	{
+		"name": "Desert Hot Springs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Desert Shores",
+		"state_code": "CA"
+	},
+	{
+		"name": "Desert View Highlands",
+		"state_code": "CA"
+	},
+	{
+		"name": "Diablo",
+		"state_code": "CA"
+	},
+	{
+		"name": "Diamond Bar",
+		"state_code": "CA"
+	},
+	{
+		"name": "Diamond Springs",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dillon Beach",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dinuba",
+		"state_code": "CA"
+	},
+	{
+		"name": "Discovery Bay",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dixon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dixon Lane-Meadow Creek",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dollar Point",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dorrington",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dorris",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dos Palos",
+		"state_code": "CA"
+	},
+	{
+		"name": "Downey",
+		"state_code": "CA"
+	},
+	{
+		"name": "Duarte",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dublin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ducor",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dunsmuir",
+		"state_code": "CA"
+	},
+	{
+		"name": "Durham",
+		"state_code": "CA"
+	},
+	{
+		"name": "Dustin Acres",
+		"state_code": "CA"
+	},
+	{
+		"name": "Earlimart",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Blythe",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Compton",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Foothills",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Hemet",
+		"state_code": "CA"
+	},
+	{
+		"name": "East La Mirada",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Los Angeles",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Oakdale",
+		"state_code": "CA"
+	},
+	{
+		"name": "Easton",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Orosi",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Palo Alto",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Pasadena",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Porterville",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Quincy",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Richmond Heights",
+		"state_code": "CA"
+	},
+	{
+		"name": "East San Gabriel",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Shore",
+		"state_code": "CA"
+	},
+	{
+		"name": "East Sonora",
+		"state_code": "CA"
+	},
+	{
+		"name": "Edgewood",
+		"state_code": "CA"
+	},
+	{
+		"name": "Edwards AFB",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Cajon",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Centro",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Cerrito",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Cerrito",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Dorado Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Eldridge",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Granada",
+		"state_code": "CA"
+	},
+	{
+		"name": "Elk Grove",
+		"state_code": "CA"
+	},
+	{
+		"name": "Elkhorn",
+		"state_code": "CA"
+	},
+	{
+		"name": "Elmira",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Monte",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Paso de Robles",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Rio",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Segundo",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Sobrante",
+		"state_code": "CA"
+	},
+	{
+		"name": "El Verano",
+		"state_code": "CA"
+	},
+	{
+		"name": "Emerald Lake Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Emeryville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Empire",
+		"state_code": "CA"
+	},
+	{
+		"name": "Encinitas",
+		"state_code": "CA"
+	},
+	{
+		"name": "Escalon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Escondido",
+		"state_code": "CA"
+	},
+	{
+		"name": "Esparto",
+		"state_code": "CA"
+	},
+	{
+		"name": "Etna",
+		"state_code": "CA"
+	},
+	{
+		"name": "Eureka",
+		"state_code": "CA"
+	},
+	{
+		"name": "Exeter",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fairbanks Ranch",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fairfax",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fairfield",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fair Oaks",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fairview",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fallbrook",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fall River Mills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Farmersville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Farmington",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fellows",
+		"state_code": "CA"
+	},
+	{
+		"name": "Felton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ferndale",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fetters Hot Springs-Agua Caliente",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fillmore",
+		"state_code": "CA"
+	},
+	{
+		"name": "Firebaugh",
+		"state_code": "CA"
+	},
+	{
+		"name": "Florence-Graham",
+		"state_code": "CA"
+	},
+	{
+		"name": "Florin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Folsom",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fontana",
+		"state_code": "CA"
+	},
+	{
+		"name": "Foothill Farms",
+		"state_code": "CA"
+	},
+	{
+		"name": "Foothill Ranch",
+		"state_code": "CA"
+	},
+	{
+		"name": "Ford",
+		"state_code": "CA"
+	},
+	{
+		"name": "Foresthill",
+		"state_code": "CA"
+	},
+	{
+		"name": "Forest Meadows",
+		"state_code": "CA"
+	},
+	{
+		"name": "Forestville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fort Bragg",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fort Jones",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fortuna",
+		"state_code": "CA"
+	},
+	{
+		"name": "Foster",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fountain Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fowler",
+		"state_code": "CA"
+	},
+	{
+		"name": "Frazier Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Freedom",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fremont",
+		"state_code": "CA"
+	},
+	{
+		"name": "French Camp",
+		"state_code": "CA"
+	},
+	{
+		"name": "French Gulch",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fresno",
+		"state_code": "CA"
+	},
+	{
+		"name": "Friant",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fruitdale",
+		"state_code": "CA"
+	},
+	{
+		"name": "Fullerton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Furnace Creek",
+		"state_code": "CA"
+	},
+	{
+		"name": "Galt",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gardena",
+		"state_code": "CA"
+	},
+	{
+		"name": "Garden Acres",
+		"state_code": "CA"
+	},
+	{
+		"name": "Garden Grove",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gazelle",
+		"state_code": "CA"
+	},
+	{
+		"name": "Georgetown",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gerber-Las Flores",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gilroy",
+		"state_code": "CA"
+	},
+	{
+		"name": "Glen Avon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Glendale",
+		"state_code": "CA"
+	},
+	{
+		"name": "Glendora",
+		"state_code": "CA"
+	},
+	{
+		"name": "Glen Ellen",
+		"state_code": "CA"
+	},
+	{
+		"name": "Golden Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gold River",
+		"state_code": "CA"
+	},
+	{
+		"name": "Goleta",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gonzales",
+		"state_code": "CA"
+	},
+	{
+		"name": "Goshen",
+		"state_code": "CA"
+	},
+	{
+		"name": "Graeagle",
+		"state_code": "CA"
+	},
+	{
+		"name": "Grand Terrace",
+		"state_code": "CA"
+	},
+	{
+		"name": "Granite Bay",
+		"state_code": "CA"
+	},
+	{
+		"name": "Granite Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Grass Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Graton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Grayson",
+		"state_code": "CA"
+	},
+	{
+		"name": "Greenfield",
+		"state_code": "CA"
+	},
+	{
+		"name": "Greenhorn",
+		"state_code": "CA"
+	},
+	{
+		"name": "Green Valley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Greenview",
+		"state_code": "CA"
+	},
+	{
+		"name": "Greenville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Grenada",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gridley",
+		"state_code": "CA"
+	},
+	{
+		"name": "Groveland-Big Oak Flat",
+		"state_code": "CA"
+	},
+	{
+		"name": "Grover Beach",
+		"state_code": "CA"
+	},
+	{
+		"name": "Guadalupe",
+		"state_code": "CA"
+	},
+	{
+		"name": "Guerneville",
+		"state_code": "CA"
+	},
+	{
+		"name": "Gustine",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hacienda Heights",
+		"state_code": "CA"
+	},
+	{
+		"name": "Half Moon Bay",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hamilton Branch",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hamilton",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hanford",
+		"state_code": "CA"
+	},
+	{
+		"name": "Harbison Canyon",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hawaiian Gardens",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hawthorne",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hayfork",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hayward",
+		"state_code": "CA"
+	},
+	{
+		"name": "Healdsburg",
+		"state_code": "CA"
+	},
+	{
+		"name": "Heber",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hemet",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hercules",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hermosa Beach",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hesperia",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hickman",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hidden Hills",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hidden Meadows",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hidden Valley Lake",
+		"state_code": "CA"
+	},
+	{
+		"name": "Highgrove",
+		"state_code": "CA"
+	},
+	{
+		"name": "Highland",
+		"state_code": "CA"
+	},
+	{
+		"name": "Highlands-Baywood Park",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hillsborough",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hilmar-Irwin",
+		"state_code": "CA"
+	},
+	{
+		"name": "Hollister",
+		"state_code": "CA"
+	},
+	{
+		"name": "Holtville",
+		"state_code": "CA"
+	}
+]

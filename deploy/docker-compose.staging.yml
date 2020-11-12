@@ -1,0 +1,59 @@
+version: "2.4"
+services:
+  traefik:
+    image: traefik
+    command:
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.http.Address=:80"
+      - "--entrypoints.https.Address=:443"
+      - "--certificatesresolvers.myresolver.acme.email=support@epicdesignlabs.com"
+      - "--certificatesresolvers.myresolver.acme.storage=/data/acme.json"
+      - "--certificatesresolvers.myresolver.acme.httpchallenge.entrypoint=http"
+    restart: always
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+      - certificate-data:/data
+    labels:
+      - "traefik.enable=true"
+      # middleware redirect
+      - "traefik.http.middlewares.redirect-to-https.redirectscheme.scheme=https"
+      # global redirect to https
+      - "traefik.http.routers.redirs.rule=hostregexp(`{host:.+}`)"
+      - "traefik.http.routers.redirs.entrypoints=http"
+      - "traefik.http.routers.redirs.middlewares=redirect-to-https"
+    mem_limit: 64M
+  backend:
+    image: 736685040696.dkr.ecr.us-east-1.amazonaws.com/edl-wineclub-backend
+    restart: always
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.backend.rule=Host(`staging.wineclub.com`)"
+      - "traefik.http.routers.backend.tls=true"
+      - "traefik.http.routers.backend.tls.certresolver=myresolver"
+    environment:
+      NODE_ENV: staging
+      MONGODB_URL: "mongodb://mongo:27017/wineclub-db"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1M"
+        max-file: "3"
+    mem_limit: 256M
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    restart: always
+    volumes:
+      - db-data:/data/db
+    mem_limit: 256M
+
+volumes:
+  db-data:
+    driver: local
+  certificate-data:
+    driver: local

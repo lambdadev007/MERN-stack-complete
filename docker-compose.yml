@@ -1,0 +1,54 @@
+version: "2.4"
+services:
+  traefik:
+    image: traefik
+    command:
+      - "--api.insecure=true"
+      - "--providers.docker=true"
+      - "--providers.docker.exposedbydefault=false"
+      - "--entrypoints.web.address=:8000"
+    ports:
+      - 8000:8000
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"
+  backend:
+    container_name: backend
+    build:
+      context: ./backend
+      target: dev
+    image: wineclub-app-backend
+    restart: always
+    ports:
+      - "3000:3000"
+    links:
+      - mongo
+    volumes:
+      - ./backend:/app
+    environment:
+      NODE_ENV: development
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      - ./data:/data/db
+    ports:
+      - "27017:27017"
+  frontend:
+    build:
+      context: ./frontend
+      target: dev
+    image: wineclub-app-frontend
+    command: ./docker.dev.sh
+    volumes:
+      - ./frontend:/app
+      - node-data:/app/node_modules
+      - expo-data:/app/.expo
+    labels:
+      - "traefix.enable=true"
+      - "traefik.http.routers.frontend.rule=PathPrefix(`/`)"
+
+volumes:
+  node-data:
+    driver: local
+  expo-data:
+    driver: local

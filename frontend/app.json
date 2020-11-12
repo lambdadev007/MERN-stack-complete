@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "WineClub",
+    "slug": "wineclub",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./public/images/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "public/images/**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.epicdesignlabs.wineclub",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.epicdesignlabs.wineclub",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./public/images/favicon.png"
+    },
+    "description": "Connecting wine makers and wine lovers"
+  }
+}
